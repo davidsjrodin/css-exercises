@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgb(242, 160, 160);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#the-two {
+    color: rgb(40, 166, 250);
+    font-size: 36px;
+}
+.odd.ball {
+    font-size: 24px;
+}
+#the-four {
+    background-color: hsl(127, 75%, 69%);
+    font-size: 24px;
+    font-weight: bold;
+}
